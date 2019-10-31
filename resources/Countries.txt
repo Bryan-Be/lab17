@@ -1,0 +1,11 @@
+Bolivia,11513100
+Bosnia and Herzegovina,3301000
+Botswana,2303697
+Brazil,211049527
+Brunei,433285
+Bulgaria,7000119
+Burkina Faso,20321378
+GrandCircusLand,1313
+ClowLand,43732
+PoweLand,24993933
+FoSakCake,20078735
